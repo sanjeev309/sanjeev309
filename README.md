@@ -1,7 +1,5 @@
 ### Hi, I am Sanjeev 👋
 
-<!--
-**sanjeev309/sanjeev309** is a ✨ _special_ ✨ repository because its `README.md` (this file) appears on your GitHub profile.
 
 I am a Machine Learning Engineer with 3+ years of experience working in product based startups.
 My primary expertise is in Computer Vision and ML deployment at the edge.
