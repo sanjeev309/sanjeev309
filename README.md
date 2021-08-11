@@ -15,4 +15,6 @@ My primary expertise is in Computer Vision and ML deployment at the edge.
 - 📫 How to reach me: [LinkedIn](https://www.linkedin.com/in/sanjeev309/) 
 
 
-[![Top Langs](https://github-readme-stats.vercel.app/api/top-langs/?username=sanjeev309)](https://github.com/sanjeev309)
+
+
+[![Top Langs](https://github-readme-stats.vercel.app/api/top-langs/?username=sanjeev309&theme=dark)](https://github.com/anuraghazra/github-readme-stats)
